@@ -64,7 +64,7 @@ input {
   border: none;
   border-bottom: 1px solid black;
   border-radius: 5px;
-  outline: inherit;
+  /* outline: inherit; */
 }
 span,
 input {
